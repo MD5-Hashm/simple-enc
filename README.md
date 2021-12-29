@@ -12,7 +12,7 @@ alias ed="python3 ~/Python/ed.py"
 Usage: e-d.py <arg> <file> <password>      
   -e      Encrypt   |   -d      Decrypt
   
-# Example
+# Encryption Example
   
 python3 ~/Python/ed.py -e important.txt "great password"
   
@@ -20,7 +20,7 @@ or if you have an alias
   
 ed -e important.txt "great password"
   
-its the same for decription except replace "-e" with "-d"
+# Decryption Example
   
 python3 ~/Python/ed.py -d important.txt.aes "great password"
   
