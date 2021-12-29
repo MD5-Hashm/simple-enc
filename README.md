@@ -6,7 +6,8 @@ First install "pyAesCrypt" using pip.
 Thats it!
 Optionally you can add an alias such as: 
 
-alias ed="python3 ~/Python/ed.py"
+```echo alias ed="python3 ~/Python/ed.py" >> ~/.bashrc```
+or your however you add an alias on your shell of choice
 
 # Usage
 Usage: e-d.py <arg> <file> <password>      
