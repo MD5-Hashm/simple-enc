@@ -16,16 +16,16 @@ Usage: e-d.py [arg] [file] [password]
   
 # Encryption Example
   
-python3 ~/Python/ed.py -e important.txt "great password"
+```python3 ~/Python/ed.py -e important.txt "great password"```
   
 or if you have an alias
   
-ed -e important.txt "great password"
+```ed -e important.txt "great password"```
   
 # Decryption Example
   
-python3 ~/Python/ed.py -d important.txt.aes "great password"
+```python3 ~/Python/ed.py -d important.txt.aes "great password"```
   
 or if you have an alias
   
-ed -d important.txt.aes "great password"
+```ed -d important.txt.aes "great password"```
