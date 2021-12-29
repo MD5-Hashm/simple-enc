@@ -10,7 +10,7 @@ Optionally you can add an alias such as:
 or your however you add an alias on your shell of choice
 
 # Usage
-Usage: e-d.py <arg> <file> <password>      
+Usage: e-d.py [arg] [file] [password]
   -e      Encrypt   |   -d      Decrypt
   
 # Encryption Example
