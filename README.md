@@ -2,7 +2,7 @@
 Simple python program to encrypt files with AES-256 encryption
 
 # Setup
-First install "pyAesCrypt" using pip.
+First install "'pyAesCrypt'" using pip.
 Thats it!
 Optionally you can add an alias such as: 
 
