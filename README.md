@@ -62,3 +62,5 @@ or if you have an alias
 or
 
 ```d important.txt "great password"```
+
+The program has been completely written by myself and I would appreciate that if you like the program to leave a star!
